@@ -63,13 +63,13 @@ We considering two metrics:
 - mAP @ IoU 50
 - F1 @ IoU 50
 
-The implementation of these metrics can be found in the file `metrics.py`
+The implementation of these metrics can be found in the file [`metrics.py`](metrics.py)
 
 ### Baseline
 
 We have 2 baselines: with pytorch and tensorflow
 
-- Pytorch Jupyter Notebook
+- [Pytorch Jupyter Notebook](pytorch_baseline.ipynb)
 - Tensorflow Jupyter Notebook
 
 ### How to get better results?
