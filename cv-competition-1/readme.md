@@ -40,7 +40,10 @@ The dataset consists of pictures and annotations in Pascal VOC format winh 1 cla
 
 The structure of the data:
 ```
-└── LaDD
+├── EmptyPart
+│   └── JPEGImages
+│       └── X.jpg
+└── TrainingData
     ├── Annotations
     │   └── X.xml
     ├── ImageSets
@@ -68,3 +71,8 @@ We have 2 baselines: with pytorch and tensorflow
 
 - Pytorch Jupyter Notebook
 - Tensorflow Jupyter Notebook
+
+### How to get better results?
+- try to pretrain model on Stenford Drone Dataset or VisDrone DET dataset
+- try augumentations
+- try other network architectures
