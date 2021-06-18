@@ -87,7 +87,7 @@ We considering two metrics:
 - mAP @ IoU 50
 - F1 @ IoU 50
 
-The implementation of these metrics can be found in the file [`metrics.py`](pytorch_baseline/metrics.py)
+The implementation of these metrics can be found in the file [`metrics.py`](metrics/metrics.py)
 
 ### Baseline
 
