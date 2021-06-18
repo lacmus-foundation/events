@@ -94,7 +94,7 @@ The implementation of these metrics can be found in the file [`metrics.py`](pyto
 We have 2 baselines: with pytorch and tensorflow
 
 - [Pytorch Jupyter Notebook](pytorch_baseline/pytorch_baseline.ipynb)
-- Tensorflow Jupyter Notebook
+- [Tensorflow Jupyter Notebook](tf_baseline/tf_baseline.ipynb)
 
 ### How to get better results?
 - try to pretrain model on [Stanford Drone Dataset](https://cvgl.stanford.edu/projects/uav_data/) or VisDrone DET dataset
