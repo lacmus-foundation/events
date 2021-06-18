@@ -65,8 +65,7 @@ The dataset consists of pictures and annotations in Pascal VOC format winh 1 cla
 The structure of the data:
 ```
 ├── EmptyPart
-│   └── JPEGImages
-│       └── X.jpg
+│   └── X.jpg
 └── TrainingData
     ├── Annotations
     │   └── X.xml
