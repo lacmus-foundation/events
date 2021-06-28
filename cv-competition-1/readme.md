@@ -88,6 +88,24 @@ We considering two metrics:
 
 The implementation of these metrics can be found in the file [`metrics.py`](metrics/metrics.py)
 
+### Submit format
+The submission has `csv` format the following fields: `id,xmin,ymin,xmax,ymax`. Where:
+
+- id - id of image (e.g. `1.jpg` has id 1, `2.jpg` has id 2 etc);
+- xmin, ymin, xmax, ymax - bounding box coordinates;
+
+The submission file must include a header.
+
+Example:
+
+```csv
+id,xmin,ymin,xmax,ymax
+0,127,2877,271,2921
+0,1751,2111,1888,2222
+1,583,1111,666,1211
+...
+```
+
 ### Baseline
 
 We have 2 baselines: with pytorch and tensorflow
