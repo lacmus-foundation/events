@@ -5,7 +5,7 @@ This is a repository with various events, competitions, meetups and hokatons whi
 ## Current events
 
 - [1st Lacmus Comouter Vision Competition](cv-competition-1/readme.md) (July 2021)
-  - The first computer vision competition from the ODS team and the Lacmus Foundation
+  - Every person has a chance to get lost. Usually people get lost in the forest or wilderness. At the competition, we offer you to solve the problem of recognizing and detecting lost people in aerial images.
   - Unique dataset and detection task
   - Mashine Learning for Social Goods
   - Exciting cases and tasks
