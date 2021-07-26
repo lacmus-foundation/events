@@ -35,16 +35,17 @@ The submission has `csv` format the following fields: `id,xmin,ymin,xmax,ymax`. 
 
 - id - id of image (e.g. `1.jpg` has id 1, `2.jpg` has id 2 etc);
 - xmin, ymin, xmax, ymax - bounding box coordinates;
+- score - prediction confidence (float: [0..1])
 
 The submission file must include a header.
 
 Example:
 
 ```csv
-id,xmin,ymin,xmax,ymax
-0,127,2877,271,2921
-0,1751,2111,1888,2222
-1,583,1111,666,1211
+id,xmin,ymin,xmax,ymax,score
+0,127,2877,271,2921,0.589
+0,1751,2111,1888,2222,0.111
+1,583,1111,666,1211,0.799
 ...
 ```
 
