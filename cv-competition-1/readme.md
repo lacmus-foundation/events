@@ -4,6 +4,8 @@
 
 *Lacmus Foundation - Finding Missing People With Neural Networks. Fast. User-Friendly. OpenSource.*
 
+**⚠️ The competition is over. [The results and solutions are available here](results). ⚠️**
+
 ## Description
 
 Every person going outdoors has a chance to get lost. Usually people get lost in the forest and wilderness. About 120 000 Persons are lost In Russia every year. More than 100 000 Persons are lost in the USA every year.
